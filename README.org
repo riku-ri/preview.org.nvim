@@ -1,8 +1,6 @@
-#+MACRO: i [[https://github.com/riku-ri/preview.org.nvim][preview.org.nvim]]
+* [[][*preview.org.nvim*]]
 
-* {{{i}}}
-
-[[https://github.com/riku-ri/preview.org.nvim][preview.org.nvim]]
+[[][*preview.org.nvim*]]
 is a preview tool for org mode /i.e./ ~.org~ file in neovim.
 
 -----
