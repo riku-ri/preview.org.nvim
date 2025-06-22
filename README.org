@@ -40,5 +40,5 @@ Because they are all come from a preview template:
 - python 3+
 - A web browser
 	#+begin_quote
-	[[file://preview.nvim][~preview.nvim~]]
+	[[preview.nvim][~preview.nvim~]]
 	#+end_quote
