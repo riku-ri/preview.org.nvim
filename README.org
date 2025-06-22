@@ -1,0 +1,21 @@
+* [[https://github.com/riku-ri/preview.org.nvim][preview.org.nvim]]
+
+[[https://github.com/riku-ri/preview.org.nvim][preview.org.nvim]]
+is a preview tool for org mode /i.e./ ~.org~ file in neovim.
+
+-----
+
+Recently I moved from markdown to asciidoc,
+and made a preview for asciidoc
+[[https://github.com/preview.adoc.nvim][preview.adoc.nvim]].
+
+Just after finishing [[https://github.com/preview.adoc.nvim][preview.adoc.nvim]],
+I learned the basic syntax of asciidoc.
+And just after I learning the basic syntax of asciidoc,
+I decided to give up asciidoc.
+It vaguely displease me.
+
+And then I tried restructuredText, and so on.
+Finally, it comes to *org mode*.
+
+@@html:<h1>@@here@@html:</h1>@@
